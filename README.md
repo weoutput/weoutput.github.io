@@ -56,7 +56,7 @@
 
 ## 🌐 链接
 
-- 官网：[weoutput.com](https://weoutput.com)
-- GitHub 组织：[github.com/weoutput](https://github.com/weoutput)
+- 🏠 官网：[weoutput.com](https://weoutput.com)
+- 🐙 GitHub 组织：[github.com/weoutput](https://github.com/weoutput)
 
-© 2026 ·  WEOUTPUT · 微示
+© 2026 ·  WEOUTPUT · 微示  ⚡ 由 GitHub Pages 驱动
