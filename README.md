@@ -59,6 +59,6 @@
 - 🏠 官网：[weoutput.com](https://weoutput.com)
 - 🐙 GitHub 组织：[github.com/weoutput](https://github.com/weoutput)
 
-ℹ️ 此页面 AI 生成 + 手动修改，部分内容夸大其词
+ℹ️ 此页面 AI 生成 + 手动修改，部分内容夸大其词。
 
 © 2026 ·  WEOUTPUT · 微示  ⚡ 由 GitHub Pages 驱动
